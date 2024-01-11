@@ -4,14 +4,12 @@
 </div>
 
 <h2>Sobre mi 👨‍💻</h2> 
-<p>- Soy estudiante de 2ºDAW.</p>
-<p>- Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.</p>
+<p>- 😀 Soy estudiante de 2ºDAW.</p>
+<p>- 💻 Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.</p>
 <br/>
 
 <p>Más información en:</p>
-<a href="www.linkedin.com/in/maría-isabel-lozano-olivencia-16aaa02a0" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/>
-</a> 
+<a href="https://www.linkedin.com/in/maría-isabel-lozano-olivencia-16aaa02a0" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
 <br/>
 
 <h2>🔧 Lenguajes y herramientas utilizadas </h2>
