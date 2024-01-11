@@ -6,7 +6,7 @@ ___
 - Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.
 
 # Lenguajes de programación y herramientas utilizadas
-![CSS3(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
 
 
