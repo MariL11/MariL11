@@ -1,5 +1,4 @@
 <h1>Hola a todo el mundo 👋</h1>
-<hr>
 
 <h3>Sobre mi 👨‍💻</h3> 
 <p>- Soy estudiante de 2ºDAW.</p>
