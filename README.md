@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hola a todo el mundo 👋
+___
 
+# Sobre mi 👨‍💻
+- Soy estudiante de 2ºDAW.
+- Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.
+
+# Lenguajes de programación y herramientas utilizadas
+ ![CSS3]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+
+
+
+- 
 <!--
 **MariL11/MariL11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
