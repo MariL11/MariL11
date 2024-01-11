@@ -1,12 +1,13 @@
-### Hola a todo el mundo 👋
-___
+<h1>Hola a todo el mundo 👋</h1>
+<hr>
 
-# Sobre mi 👨‍💻
-- Soy estudiante de 2ºDAW.
-- Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.
+<h3>Sobre mi 👨‍💻</h3> 
+<p>- Soy estudiante de 2ºDAW.</p>
+<p>- Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.</p>
 
-# Lenguajes de programación y herramientas utilizadas
-![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){ width=25 height=25 }
+<h3>Lenguajes de programación y herramientas utilizadas</h3>
+<hr>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
 
 
