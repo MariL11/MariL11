@@ -9,7 +9,7 @@
 <br/>
 
 <p>Más información en:</p>
-<a href="www.linkedin.com/in/maría-isabel-lozano-olivencia-16aaa02a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="www.linkedin.com/in/maría-isabel-lozano-olivencia-16aaa02a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>
 
 <h2>🔧 Lenguajes y herramientas utilizadas </h2>
