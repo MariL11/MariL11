@@ -4,9 +4,8 @@
 </div>
 
 <h2>Sobre mi 👨‍💻</h2> 
-<p>- 😀 Soy estudiante de 2ºDAW.</p>
-<p>- 🎯 Tengo conocimientos en el sector sanitario.</p>
-<p>- 💻 Estoy aprendiendo actualmente JavaScript, PHP, HTML5 y CSS3.</p>
+<p>- 😀 Soy desarrolladora web.</p>
+<p>- 💻 Actualmente sigo avanzando en mis estudios de inglés.</p>
 <p>- 🎓 Intento siempre avanzar y seguir aprendiendo nuevas cosas sobre el mundo de la programación.</p>
 
 <br/>
@@ -25,5 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-original.svg" alt="php" width="50" height="50"/> 
 </div>
 
