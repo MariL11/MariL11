@@ -11,7 +11,7 @@
 <br/>
 
 <p>Más información en:</p>
-<a href="https://www.linkedin.com/in/maría-isabel-lozano-olivencia-16aaa02a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
+<a href="https://www.linkedin.com/in/maria-isabel-lozano-olivencia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
 <br/>
 
 <h2>🔧 Herramientas y lenguajes utilizados </h2>
